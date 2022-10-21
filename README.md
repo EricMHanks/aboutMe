@@ -12,7 +12,7 @@ In 2021, my senior year of highschool, I enlisted in the Missouri National Guard
 I am a Private First Class. While I was at AIT (Advance Individual Training), I learned a lot about system administration. I learned about OSPF, mediums used to transfer data, and became extremely familiar with the Cisco IOS CLI. Though I am not certain of what I want to do career-wise, I feel as if I would enjoy being a [*System Administrator*](https://www.bls.gov/ooh/computer-and-information-technology/network-and-computer-systems-administrators.htm "Bureau of Labor Statistics")
 
 
-
+![Eric Matthew Hanks Certificate](https://scontent-den4-1.xx.fbcdn.net/v/t1.6435-9/186549909_10159749591872625_8932803502958502030_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=vazJI7mBnfoAX-3CIci&_nc_ht=scontent-den4-1.xx&oh=00_AT83oD7gEham8V5JsKKvVnHrYsFT4-gDO_QH6PEh6uNPqQ&oe=63781C91)
 
 
 
